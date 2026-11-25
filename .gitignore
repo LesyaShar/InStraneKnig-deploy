@@ -1,0 +1,5 @@
+﻿certs/*
+!certs/.gitkeep
+*.pem
+*-key.pem
+.env
